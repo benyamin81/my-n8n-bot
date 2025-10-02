@@ -1,5 +1,5 @@
 {
-  "name": "Chat with OpenAIs GPT via a simple Telegram Bot",
+  "name": "Telegram-Bot",
   "nodes": [
     {
       "parameters": {
